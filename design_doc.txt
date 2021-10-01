@@ -1,0 +1,22 @@
+
+
+1.Create map with dates as keys and emotions as values
+    1a. Do this by splitting up lines by the second '-' in each line
+    1b. Put these in a dictionary
+
+2. Create Dictionary for amount of emotions found
+
+3. Parse each line for its contents
+    3a. If there are two emotions per line, take first
+
+
+
+
+Standardization of Emotions:
+
+    1. Great = Great
+    2. Good = Good + Content
+    3. Neutral = Aight + Meh + ok
+    3. Depressed = Sad + Depressed + Angry
+    4. Overwhelmed = Rough + Anxious + Overwhelmed + Frustrated
+    5. N/A = N/A

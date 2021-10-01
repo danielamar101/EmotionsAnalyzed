@@ -1,0 +1,365 @@
+1/1 - great 
+1/2 - great 
+1/3 - good
+1/4 - great 
+1/5  - depressed
+1/6 - sad
+1/7 - sad
+1/8 - sad
+1/9 - good
+1/10 - good
+1/11 - good
+1/12 - sad
+1/13 - sad
+1/14 - depressed
+1/15 - good
+1/16 - good
+1/17 - good
+1/18 - good
+1/19 - depressed
+1/20 - good
+1/21 - good
+1/22 -angry
+1/23 -good
+1/24 - great 
+1/25 - great 
+1/26 -great 
+1/27 -sad, Bad/low energy
+1/28 -good
+1/29 - good
+1/30 - good
+1/31 - great 
+2/1- good
+2/2 - good
+2/3 - sad
+2/4 - good
+2/5- good
+2/6 - good
+2/7 -good
+2/8 - good
+2/9 - Stressed
+2/10 -sad
+2/11 -depressed
+2/12 -sad
+2/13 - sad
+2/14 -sad
+2/15 -good
+2/16 -N/A
+2/17 -N/A
+2/18 - N/A
+2/19 - N/A
+2/20 - N/A
+2/21 - N/A
+2/22 - N/A
+2/23 - N/A
+2/24 - N/A
+2/25 -good
+2/26 -good
+2/27 - depressed
+2/28 -good
+3/1 -good
+3/2 - sad
+3/3 - good
+3/4 -sad
+3/5 -good
+3/6 -good
+3/7 -good
+3/8 - good
+3/9 -sad
+3/10 -good
+3/11 -good
+3/12 -good
+3/13 -good
+3/14 -good
+3/15 -good
+3/16 - N/A
+3/17 -good
+3/18 -good
+3/19- good
+3/20- good
+3/21-good
+3/22- good
+3/23-  good
+3/24 - N/A
+3/25- good
+3/26- good
+3/27-good
+3/28- good
+3/29-great 
+3/30-great 
+3/31- sad
+4/1-angry
+4/2- sad
+4/3- good
+4/4-good
+4/5-good
+4/6- great 
+4/7-good
+4/8-good
+4/9- good
+4/10-good
+4/11-good
+4/12-good
+4/13-good
+4/14-good
+4/15- good
+4/16-overwhelmed
+4/17-good 
+4/18-good
+4/19-good,but frustrated
+4/20-good, but sad
+4/21-good
+4/22-good
+4/23-good
+4/24-good
+4/25-good 
+4/26-good, Sad
+4/27-good
+4/28-good
+4/29-good
+4/30-good
+5/1-sad (tired)
+5/2-good
+5/3-good, tired
+5/4-good
+5/5-good, sad
+5/6-good, angry
+5/7-good
+5/8-good Tired
+5/9-good
+5/10-good
+5/11-good
+5/12-good
+5/13-good
+5/14-great
+5/15-great
+5/16-great
+5/17-good
+5/18-good
+5/19-good
+5/20-good
+5/21-great
+5/22-good
+5/23-good
+5/24-good
+5/25-good,tired, frustrated)
+5/26-good
+5/27-good
+5/28-good (day 1 of summer skewl)
+5/29-good
+5/30-good,tired)
+5/31-good,tired)
+6/1-good(ressed over ibs)
+6/2-good (balanced
+6/3-great(balanced day)
+6/4-good
+6/5-good
+6/6-good
+6/7-good
+6/8-good,(at night bad)
+6/9-good
+6/10-good, sad
+6/11-good, Frustrated
+6/12-good
+6/13-good
+6/14-good
+6/15-good
+6/16-good
+6/17-good
+6/18-good
+6/19-good
+6/20-good
+6/21-good,tired
+6/22-good
+6/23-good
+6/24-good
+6/25-good, but ibs 
+6/26-good
+6/27-good, stressful but finals over!
+6/28-good, tired cranky
+6/29-good
+6/30-good but ibs
+7/1-good
+7/2-good (europe)
+7/3 - good
+7/4- good, sad 
+7/5- great, goood grades
+7/6- good
+7/7 - good but ibs
+7/8-good but ibs 
+7/9-good ibs
+7/10-good but ibs
+7/11-good, nervous
+7/12- good, alone
+7/13- good, frustrated
+7/14- great, but sore
+7/15 - good
+7/16 - good
+7/17-good
+7/18-good
+7/19-great
+7/20- great
+7/21- good
+7/22- good
+7/23- good, little stress
+7/24-sad frustrated
+7/25- good
+7/26- good, a bit stressed
+7/27- good but i puked
+7/28- good, but weird
+7/29- good, but lethargic, introspective
+7/30- good
+7/31 - good
+8/1-good
+8/2-good
+8/3-good
+8/4-good
+8/5-angry
+8/6-sad
+8/7-stressed, Sick
+8/8-good but stressed
+8/9-good
+8/10- good
+8/11- good
+8/12- good
+8/13-good
+8/14- good
+8/15- good
+8/16- good
+8/17-good
+8/18-good
+8/19- good, but pitied myself
+8/20- good
+8/21-good on top of my shit
+8/22- great
+8/23- good sick day
+8/24-good
+8/25-good
+8/26-good, but realized i need to be more efficient
+8/27-good, stressful
+8/28- good
+8/29-good fun
+8/30-great
+8/31-good, sulked a bit
+9/1-good af
+9/2-good
+9/3-good
+9/4-good
+9/5-good
+9/6-good
+9/7- good
+9/8-good
+9/9-good, sulked a bitlittle shaky
+9/10-good
+9/11- Pretty good
+9/12-good
+9/13- good, at first, then dark grey cause dp
+9/14- good, tiring
+9/15-good
+9/16-good
+9/17-good productive
+9/18-good
+9/19-good, productive, pitied self though
+9/20- good, Pitied myself
+9/21-good af
+9/22-good, Lethargic
+9/23-good sorta Productive
+9/24- good, productive
+9/25- good killed test
+9/26-good, productive, tired
+9/27-good, made good choices
+9/28- Stressed, Stressful, shitty overwhelmed, sad
+9/29- good 
+9/30- good, stress over
+10/1-good fixed scooter finally
+10/2- good talked to angie
+10/3- good
+10/4-good, realized i gotta study more
+10/5-good mad fun 
+10/6- good
+10/7- good, productive
+10/8- Good, fasting
+10/9-Good, fasted
+10/10-Great
+10/11-Good
+10/12-Good 
+10/13-Good fun
+10/14-Good
+10/15-Good
+10/16- sad, Below average, weird
+10/17-Great
+10/18- Good
+10/19- Good
+10/20- Good, studied
+10/21- good sulked a bit
+10/22- Good productive
+10/23- Good brotherhood
+10/24-Good
+10/25-Good
+10/26-Great!
+10/27- depressed
+10/28-sad
+10/29- Good
+10/30- Good
+10/31 - Great
+11/1 - angry
+11/2- Good
+11/3-good stressed
+11/4-Good 
+11/5-Good
+11/6-Good
+11/7-Good 
+11/8-Good
+11/9-GREAT
+11/10-Good
+11/11-Good
+11/12-Good
+11/13-Good
+11/14-Good
+11/15-good(sulked a bit)
+11/16-good(sulked a bit)
+11/17-good(sulked a bit)
+11/18-Good
+11/19-Good
+11/20-Good
+11/21-Good
+11/22-Good
+11/23-Good
+11/24-Good
+11/25-Good
+11/26-Good
+11/27-Good
+11/28-Good
+11/29-Good
+11/30-Good
+12/1- Great!
+12/2- Good
+12/3-good but lethargic, tired
+12/4- Great
+12/5-sad, tired
+12/6- sad, tired
+12/7- Good
+12/8- Good
+12/9-Good
+12/10 - Good
+12/11- Good
+12/12-Good
+12/13-Good
+12/14- Great 
+12/15- Great 
+12/16- Good
+12/17-Good
+12/18-Great 
+12/19- Good
+12/20- Good
+12/21- Good
+12/22-Good
+12/23-Good
+12/24-Good 
+12/25-Good
+12/26-Good
+12/27-Good
+12/28-Good
+12/29-Good, tired 
+12/30-Good 
+12/31-Great\
